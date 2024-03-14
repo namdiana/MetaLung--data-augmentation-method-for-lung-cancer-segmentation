@@ -23,7 +23,9 @@ Evaluation metrics include DICE, IoU, Precision, and Recall.
 Weights have been provided for all three models in the following formats:
 - Baseline: The model trained without data augmentation.
 - MetaLung: The model trained with the application of MetaLung with the same number of parameters.
+  
 All weights could be available here [4].
+
 - `deeplabv3_baseline.pth`
 - `deeplabv3_all_metalung.pth`
 - `maskrcnn_baseline.pth`
