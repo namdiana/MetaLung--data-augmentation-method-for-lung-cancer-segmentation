@@ -41,6 +41,9 @@ Visualization of MetaLung on a single image with a corresponding labeled mask ha
 The dataset is a combination of original Kazakstani data with an open-source LIDC-IDRI dataset [5].
 The dataset for training and evaluating models could be available [6].
 
+## Lung and vessel segmentation
+We used [7] for lung and vessel segmentation. Lung segmentation has not been evaluated separately and is not checked manually by the doctor. 
+
 ## References
 
 <br>[1] [U-Net: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597)
@@ -49,3 +52,4 @@ The dataset for training and evaluating models could be available [6].
 <br>[4] [Pre-trained weights for application of MetaLung (Meticulous affine-transformation-based lung cancer augmentation method) and baseline model](https://doi.org/10.5281/zenodo.10800818)
 <br>[5] [LIDC-IDRI Dataset](https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX)
 <br>[6] [Lung Cancer Segmentation Dataset with Lung-RADS Class](https://data.mendeley.com/datasets/5rr22hgzwr/1)
+<br>[7] [Introduction to medical imaging with python ct segmentation without any labels]https://github.com/black0017/ct-intensity-segmentation/blob/main/notebook%20version/introduction_to_medical_imaging_with_python_ct_segmentation_without_any_labels_.py
