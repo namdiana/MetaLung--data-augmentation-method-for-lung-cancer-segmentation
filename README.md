@@ -52,4 +52,4 @@ We used [7] for lung and vessel segmentation. Lung segmentation has not been eva
 <br>[4] [Pre-trained weights for application of MetaLung (Meticulous affine-transformation-based lung cancer augmentation method) and baseline model](https://doi.org/10.5281/zenodo.10800818)
 <br>[5] [LIDC-IDRI Dataset](https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX)
 <br>[6] [Lung Cancer Segmentation Dataset with Lung-RADS Class](https://data.mendeley.com/datasets/5rr22hgzwr/1)
-<br>[7] [Introduction to medical imaging with python ct segmentation without any labels]https://github.com/black0017/ct-intensity-segmentation/blob/main/notebook%20version/introduction_to_medical_imaging_with_python_ct_segmentation_without_any_labels_.py
+<br>[7] [Introduction to medical imaging with python ct segmentation without any labels](https://github.com/black0017/ct-intensity-segmentation/blob/main/notebook%20version/introduction_to_medical_imaging_with_python_ct_segmentation_without_any_labels_.py)
